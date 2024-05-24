@@ -1,2 +1,2 @@
-# git practuce repositary
+# demo
 a repo for practicing git and github
